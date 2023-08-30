@@ -9,3 +9,11 @@ You should read me!
 | :--- | ---:|
 | Fred | Bedrock |
 | Abraham | Springfield |
+
+This is a code block:
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
